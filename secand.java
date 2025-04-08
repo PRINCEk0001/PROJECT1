@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 class  secand{
     public static void main(String[] args){
@@ -12,6 +13,5 @@ class  secand{
         int c = a % b;
         // Printing the remainder of two numbers
         System.out.println("Remainder of two numbers is : " + c);
-        
     }
 }
