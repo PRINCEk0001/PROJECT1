@@ -12,6 +12,6 @@ class  secand{
         int c = a % b;
         // Printing the remainder of two numbers
         System.out.println("Remainder of two numbers is : " + c);
-        System.out.println("");
+        
     }
 }
